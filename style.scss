@@ -1,0 +1,15 @@
+$primarybtn : red;
+
+header{
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+}
+
+header button{
+    background-color:$primarybtn;
+}
+
+.contact button{
+    background-color: $primarybtn;
+}
